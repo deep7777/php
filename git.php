@@ -16,3 +16,6 @@
 
 
 // git status (check if any files or folders are changed)
+
+
+// git pull
