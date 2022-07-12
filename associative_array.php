@@ -1,6 +1,6 @@
 <?php 
 $age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43"); // associative array
-
+$age ["Deepak"] = 40;
 echo "Peter is " . $age['Peter'] . " years old. <br> \n"; // array key
 
 // iterating array using foreach loop
