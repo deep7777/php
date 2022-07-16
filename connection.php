@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";// local machine ip address 127.0.0.1
 $username = "root";
-$password = "root";
+$password = "";
 $dbname = "college";
 
 // Create a database connection
