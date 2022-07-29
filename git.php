@@ -20,6 +20,11 @@
 
 // git pull
 
+// create a new branch
 //  git checkout -b vishal
 
 // git checkout main
+
+// git push --set-upstream origin branchname
+
+// git push --set-upstream origin vishal
