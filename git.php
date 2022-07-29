@@ -19,3 +19,7 @@
 
 
 // git pull
+
+//  git checkout -b vishal
+
+// git checkout main
