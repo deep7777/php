@@ -28,3 +28,5 @@
 // git push --set-upstream origin branchname
 
 // git push --set-upstream origin vishal
+
+// git merge branchname
